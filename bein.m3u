@@ -1,18 +1,6 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnj1ke2hdx2zdyv15"
 #EXTM3U - Report broken links: kgasaz@gmail.com
-#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/ETzQJdt.png" group-title="Sports",SkySportsMainEvent
-https://7pal.short.gy/SSMEuhd
-#EXTINF:-1 tvg-id="AstroUHD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",ASTROSUPERSPORT
-https://7pal.short.gy/astrouhd
-#EXTINF:-1 tvg-id="beIN4K.qa" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="Sports",beIN
-https://7pal.short.gy/bein-uhd
-#EXTINF:-1 tvg-id="nowSports4K1" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch611_170_122" group-title="Sports",Now Sports
-https://7pal.short.gy/nowsport4k
-#EXTINF:-1 tvg-id="HubPremier2.sg" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="Sports",HUB Premier2
-https://7pal.short.gy/HubP2uhd
-#EXTINF:-1 tvg-id="VSportUltra.se" tvg-logo="https://i.imgur.com/J2dnfBZ.png" group-title="Sports",V SportUltraHD
-https://7pal.short.gy/VSportUHD
-#EXTINF:-1 tvg-id="BTSportUHD4K.uk" tvg-logo="https://i.imgur.com/LIWHOdV.png" group-title="Sports",BTSportUltimate
-https://7pal.short.gy/BTUltimate
-#EXTINF:-1 tvg-id="Skysportuhd.de" tvg-logo="https://i.imgur.com/GjCWhmb.png" group-title="Sports",SkySportUHD(DE)
-https://7pal.short.gy/SkysportUHD-DE
+#EXTINF:-1,|BEIN FR|  BEIN SPORTS 1 FHD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27089
+#EXTINF:-1,|BEIN FR|  BEIN SPORTS 1 HD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27086
