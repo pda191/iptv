@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+
+#EXTINF:-1 group-title="🇻🇳 VTV" tvg-id="vtv1hd" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
