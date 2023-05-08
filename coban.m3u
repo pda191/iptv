@@ -29,3 +29,15 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🇻🇳 VTV" tvg-id="vtv5hdtnb" tvg-logo="https://github.com/pda191/iptv/raw/main/logo/vtv5tnb.png",VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 s1
+http://103.82.24.168:5544/play/sport1tn/index.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png",K+SPORT1 s2
+http://103.82.24.168:5544/play/sdsport1/index.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png",K+SPORT2
+http://103.82.24.168:5544/play/sdsport2/index.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png",K+LIFE
+http://103.82.24.168:5544/play/life/index.m3u8
