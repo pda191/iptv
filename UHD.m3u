@@ -26,6 +26,6 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&ext
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",5.Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",6.Sky Sports Main Event UHD
-"http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU"
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF?stream=1299719?extension=ts?play_token=zKDdvDT4pU"
 #EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",7.Sky Sports Main Event UHD
 http://vividmedia.xyz:2052/jordan33/jordan33/3387919
