@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg.xml"
+
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/tntsportkkk", TNT Ultimate UHD
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=479413&extension=ts&play_token=gnLji0Ksph
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk", Sky Sports Main Event UHD
@@ -12,3 +14,18 @@ http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=482000&exten
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=490&extension=ts&play_token=72JYxxzFEv
 #EXTINF:-1 group-title="🔴|Live 4K-UHD Sports" tvg-logo="http://gg.gg/bein4kkkk", Bein 4K
 http://you.fixme.cyou:80/play/live.php?mac=00:1A:79:77:db:00&stream=549727&extension=ts&play_token=OT0nquJEuu
+
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",1.Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1a:79:52:37:32&stream=1299719&extension=ts&play_token=fvOMfJrBPI
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",2.Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",3.Sky Sports Main Event UHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1299719&extension=ts&play_token=pQ2xPxqCDv
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",4.Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4b:c9:aa&stream=1299719&extension=ts&play_token=inv5ZqpPfR
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",5.Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",6.Sky Sports Main Event UHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:17:14:FF&stream=1299719&extension=ts&play_token=zKDdvDT4pU
+#EXTINF:-1 group-title="4K-UHD Sports" tvg-logo="http://gg.gg/ssmaineventuhdkkk",7.Sky Sports Main Event UHD
+http://vividmedia.xyz:2052/jordan33/jordan33/3387919
